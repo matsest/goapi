@@ -27,11 +27,18 @@ OK
 
 $ curl http://localhost:8080/hello/mats
 "Hello mats!"
+```
 
 ### Other
 
 See
 
-`make help`
+```
+make help
+```
 
-for more instructions
+for more options
+
+## Docs
+
+API docs can be found in /docs
